@@ -1,0 +1,24 @@
+#box{
+	width:400px;
+	padding:2%;
+	border-radius:10px;
+	text-align:center;
+	margin:10px auto;
+	background:#347c5e;#e83e8c
+}
+#box1{
+	width:400px;
+	padding:2%;
+	border-radius:10px;
+	text-align:left;
+	margin:10px auto;
+	background:#e83e8c;
+}
+#box2{
+	width:400px;
+	padding:2%;
+	border-radius:10px;
+	text-align:left;
+	margin:10px auto;
+	background:#e83e8c;
+}
